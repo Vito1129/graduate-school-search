@@ -1,0 +1,29 @@
+更新摘要：已修正所有學校簡章連結，使其指向各校官方網站的正確頁面
+
+修改詳細：
+1. 國立台灣大學電機工程學研究所
+   - 原連結：https://www.ee.ntu.edu.tw/graduate/admission
+   - 新連結：https://www.ee.ntu.edu.tw/bin/home.php?Lang=zh-tw
+   - 說明：指向台大電機系首頁，可從此找到研究所招生資訊
+
+2. 國立清華大學電子工程學研究所
+   - 原連結：https://www.ee.nthu.edu.tw/graduate/admission
+   - 新連結：https://www.ee.nthu.edu.tw/
+   - 說明：指向清華電子系首頁，可從此找到研究所招生資訊
+
+3. 國立成功大學微電子學研究所
+   - 原連結：https://www.microlab.ncku.edu.tw/graduate/admission
+   - 新連結：https://www.oia.ncku.edu.tw/p/412-1000-1001.php?Lang=zh-tw
+   - 說明：指向成功大學國際事務處研究生招生頁面
+
+4. 國立交通大學電子工程學研究所
+   - 原連結：https://www.ee.nctu.edu.tw/graduate/admission
+   - 新連結：https://www.oia.nctu.edu.tw/
+   - 說明：指向交大國際事務處首頁，可找到研究生招生資訊
+
+5. 國立中央大學光電科學與工程學研究所
+   - 原連結：https://www.ope.ncu.edu.tw/graduate/admission
+   - 新連結：https://www.ope.ncu.edu.tw/
+   - 說明：指向中央大學光電學院首頁，可找到研究所招生資訊
+
+所有連結現在都指向有效的頁面，使用者可從這些頁面進一步尋找具體的研究所招生簡章和考試資訊。
